@@ -7,7 +7,7 @@ ok, i will
 
 Your favorite fruit:banana 
 
-Your favorite city: ...
+Your favorite city Brno
 
 Your favorite vegetable: ...
 
