@@ -1,0 +1,7 @@
+ab_group_new                        application_controller/buttons.rb:13-15
+refresh_server_summary              ops_controller/diagnostics.rb:539-542
+service_retire_now                  service_controller.rb:244-247
+ems_path                            ems_swift_controller.rb:21-23
+service_tag_edit                    service_controller.rb:232-235
+git_refresh                         miq_ae_class_controller.rb:2613-2659
+schedule_add                        ops_controller/settings/schedules.rb:30-33

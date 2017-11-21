@@ -1,0 +1,7 @@
+build_widgets_tree                  report_controller/widgets.rb:510-511
+role_suspend                        ops_controller/diagnostics.rb:581-595
+rbac_group_delete                   ops_controller/ops_rbac.rb:384-398
+ap_copy                             ops_controller/settings/analysis_profiles.rb:200-203
+ab_group_delete                     application_controller/buttons.rb:214-243
+miq_report_copy                     report_controller/reports/editor.rb:46-58
+cb_assignments_build_tree           chargeback_controller.rb:484-485

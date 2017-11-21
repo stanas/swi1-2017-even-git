@@ -1,0 +1,7 @@
+display_tree_resources              host_controller.rb:31-42
+build_svccat_tree                   catalog_controller.rb:2123-2124
+display_resource_pools              mixins/generic_show_mixin.rb:164-165
+build_storage_tree                  storage_controller/storage_d.rb:34-35
+vm_publish                          application_controller.rb:1947-1948
+display_playbooks                   ansible_repository_controller.rb:97-98
+policy_copy                         miq_policy_controller/policies.rb:117-135

@@ -1,0 +1,7 @@
+container_tag                       application_controller/tags.rb:23-24
+field_value_new_cat                 miq_ae_customization_controller/dialogs.rb:611-618
+display_generic_objects             service_controller.rb:180-181
+rhn_account_info_string             ops_controller/settings/rhn.rb:53-57
+update_finished                     cloud_volume_controller.rb:336-357
+revertsnapsvms                      application_controller/ci_processing.rb:637-639
+db_new                              report_controller/dashboards.rb:49-51

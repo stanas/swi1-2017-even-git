@@ -1,0 +1,7 @@
+exp_available_cfields               application_controller/filter/expression.rb:51-55
+delete_all_tasks                    miq_task_controller.rb:112-120
+refresh_production_log              ops_controller/diagnostics.rb:204-212
+build_savedreports_tree             report_controller/saved_reports.rb:143-144
+display_instances                   mixins/generic_show_mixin.rb:168-169
+remove_interface_finished           network_router_controller.rb:410-435
+pm_restart_workers                  ops_controller/diagnostics.rb:41-67

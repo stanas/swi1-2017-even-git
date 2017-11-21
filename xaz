@@ -1,0 +1,7 @@
+create_finished                     cloud_tenant_controller.rb:99-119
+build_query_for_error               miq_task_controller.rb:310-311
+rbac_user_delete                    ops_controller/ops_rbac.rb:288-330
+pxe_server_delete                   pxe_controller/pxe_servers.rb:151-153
+change_subtab                       ops_controller.rb:211-213
+iso_datastore_tree_select           pxe_controller/iso_datastores.rb:5-13
+profile_toggle                      vm_common.rb:655-674

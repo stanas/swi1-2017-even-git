@@ -1,0 +1,7 @@
+validate_before_save?               application_controller.rb:2296-2297
+create_finished                     auth_key_pair_cloud_controller.rb:144-164
+empty_managed_group_record?         automation_manager_controller.rb:434-435
+pxe_image_type_new                  pxe_controller/pxe_image_types.rb:15-20
+condition_get_all                   miq_policy_controller/conditions.rb:229-234
+service_ownership                   service_controller.rb:226-229
+backup_create_finished              cloud_volume_controller.rb:442-460

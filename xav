@@ -1,0 +1,7 @@
+build_reports_tree                  report_controller/reports.rb:252-254
+new_ems_path                        ems_block_storage_controller.rb:30-31
+deletetemplates                     pxe_controller/pxe_customization_templates.rb:149-150
+build_old_dialogs_tree              miq_ae_customization_controller.rb:489-490
+ap_delete                           ops_controller/settings/analysis_profiles.rb:375-424
+build_query_for_queued              miq_task_controller.rb:302-303
+get_detail_sort_col                 vm_common.rb:1746-1767

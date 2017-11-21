@@ -1,0 +1,7 @@
+saved_report_delete                 report_controller/saved_reports.rb:86-109
+display_persistent_volumes          ems_common.rb:72-73
+build_pxe_servers_tree              pxe_controller/pxe_servers.rb:453-454
+ab_button_new                       application_controller/buttons.rb:170-172
+deleteinstances                     miq_ae_class_controller.rb:1972-1990
+storage_delete                      storage_controller.rb:325-326
+new_ems_path                        ems_network_controller.rb:26-27

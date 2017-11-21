@@ -1,0 +1,7 @@
+render_report_data                  application_controller/report_downloads.rb:48-71
+widget_delete                       report_controller/widgets.rb:122-134
+process_resourcepools               application_controller/ci_processing.rb:676-699
+pxe_image_type_delete               pxe_controller/pxe_image_types.rb:118-120
+ems_path                            ems_datawarehouse_controller.rb:30-31
+ab_button_delete                    application_controller/buttons.rb:138-166
+new_ems_path                        ems_cloud_controller.rb:25-26

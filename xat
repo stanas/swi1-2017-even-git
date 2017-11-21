@@ -1,0 +1,7 @@
+remove_resources_display            catalog_controller.rb:820-829
+build_vmdb_tree                     ops_controller/db.rb:84-85
+delete_ns                           miq_ae_class_controller.rb:2054-2056
+build_ot_tree                       catalog_controller.rb:2133-2134
+build_query_for_warn                miq_task_controller.rb:314-315
+init_show_ems                       ems_common.rb:18-21
+edit_domain                         miq_ae_class_controller.rb:464-466

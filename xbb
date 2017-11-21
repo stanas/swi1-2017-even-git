@@ -1,0 +1,7 @@
+db_delete                           report_controller/dashboards.rb:108-121
+tl_toggle_button_enablement         dashboard_controller.rb:725-731
+build_customization_templates_tree  pxe_controller/pxe_customization_templates.rb:263-264
+hosts_subsets                       ems_cluster_controller.rb:101-126
+show_ems_folders                    ems_common.rb:35-47
+delete_pxe_image_types              pxe_controller/pxe_image_types.rb:152-153
+find_chart_path                     services/charts_layout_service.rb:32-45

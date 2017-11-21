@@ -1,0 +1,7 @@
+display_stack_orchestration_template orchestration_stack_controller.rb:22-24
+new_ems_path                        ems_object_storage_controller.rb:37-38
+build_schedules_tree                report_controller/schedules.rb:475-476
+display_object_storage_managers     ems_common.rb:60-61
+deleteisds                          pxe_controller/iso_datastores.rb:249-250
+pxe_server_new                      pxe_controller/pxe_servers.rb:17-22
+secondary_icon                      decorators/miq_widget_decorator.rb:15-20

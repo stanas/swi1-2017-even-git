@@ -1,0 +1,7 @@
+snapshot_create_finished            cloud_volume_controller.rb:553-572
+cb_docker_image_labels              report_controller/reports/editor.rb:1459-1460
+rbac_tenant_add                     ops_controller/ops_rbac.rb:97-102
+create_finished                     host_aggregate_controller.rb:150-168
+widget_copy                         report_controller/widgets.rb:40-64
+textual_provisioning_group_list     service_controller.rb:209-210
+reload_server_tree                  ops_controller/diagnostics.rb:704-715
