@@ -4,7 +4,7 @@ Please change me somehow. I will
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: apple
 
 Your favorite city: ...
 
