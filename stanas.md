@@ -8,7 +8,7 @@ Your favorite fruit: apple
 
 Your favorite city: brno
 
-Your favorite vegetable: ...
+Your favorite vegetable: parrot
 
 Your favorite color: ...
 
