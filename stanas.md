@@ -10,7 +10,7 @@ Your favorite city: brno
 
 Your favorite vegetable: parrot
 
-Your favorite color: ...
+Your favorite color: blue
 
 Your favorite icecream: ...
 
