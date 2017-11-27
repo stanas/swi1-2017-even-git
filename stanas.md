@@ -12,7 +12,7 @@ Your favorite vegetable: parrot
 
 Your favorite color: blue
 
-Your favorite icecream: ...
+Your favorite icecream: vannila
 
 Your favorite season: ...
 
