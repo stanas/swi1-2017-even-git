@@ -14,7 +14,7 @@ Your favorite color: blue
 
 Your favorite icecream: vannila
 
-Your favorite season: ...
+Your favorite season: winter
 
 
 (after this, please follow the instructions in README.md)
