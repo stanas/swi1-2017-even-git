@@ -1,7 +1,20 @@
 storage_scan                        storage_controller.rb:519-520
+- not dead, used in storage_center.rb
+
 deleteallsnapsvms                   application_controller/ci_processing.rb:623-625
+- not dead, real name not used, but method is used through alias, "vm_snapshot_delete_all", used in x_vm_center.rb
+
 ot_edit_get_form_vars               catalog_controller.rb:965-967
+- method is dead, no alias, no use
+
 build_iso_datastores_tree           pxe_controller/iso_datastores.rb:292-293
+- method is dead, only deffinition
+
 demote_server                       ops_controller/diagnostics.rb:645-660
+- not dead, used in OPS_X_BUTTON_ALLOWED_ACTIONS (from x_button)
+
 display_hosts                       ems_common.rb:76-77
+- method is dead, only deffinition
+
 cancel_task                         miq_task_controller.rb:87-100
+- not dead, is used in TASK_X_BUTTON_ALLOWED_ACTIONS (from generic_x_button)
